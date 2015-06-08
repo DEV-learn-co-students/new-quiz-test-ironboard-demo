@@ -15,7 +15,7 @@ This is README content unassociated with any quiz.  Next comes an opening quiz b
 __The parends below are reserved characters that indicate radio buttons.__
 
 ( ) 3
-( ) 2
+( ) 2<-
 ( ) 11
 ( ) 1
 
